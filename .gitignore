@@ -1,0 +1,12 @@
+*.shp
+*.shx
+*.dbf
+*.prj
+output.json
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
